@@ -1,0 +1,363 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login component renders correctly 1`] = `
+<RCTSafeAreaView
+  style={
+    {
+      "backgroundColor": "black",
+      "height": "100%",
+    }
+  }
+>
+  <View>
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "opacity": 1,
+        }
+      }
+    >
+      <AntDesign
+        color="black"
+        name="left"
+        size={20}
+        style={
+          {
+            "color": "#EDF6FF",
+            "height": 20,
+            "left": 40,
+            "top": 40,
+            "width": 20,
+          }
+        }
+      />
+    </View>
+    <Text
+      onPress={[Function]}
+      style={
+        {
+          "color": "#535AFF",
+          "fontSize": 20,
+          "left": 230,
+          "lineHeight": 23.44,
+          "top": 80,
+        }
+      }
+    >
+      DO THIS LATER
+    </Text>
+  </View>
+  <View>
+    <Text
+      style={
+        {
+          "color": "#EDF6FF",
+          "fontSize": 19,
+          "height": 33,
+          "left": 38,
+          "top": 131,
+          "width": 341,
+        }
+      }
+    >
+      Select your preferred payment method
+    </Text>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "opacity": 1,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "display": "flex",
+          "flexDirection": "row",
+          "left": 40,
+          "top": 200,
+        }
+      }
+    >
+      <Image
+        source={
+          {
+            "testUri": "../../../assets/credit_card_PNG28.png",
+          }
+        }
+        style={
+          {
+            "height": 50,
+            "width": 50,
+          }
+        }
+      />
+      <Text
+        style={
+          {
+            "color": "#EDF6FF",
+            "fontSize": 20,
+            "left": 50,
+            "top": 15,
+          }
+        }
+      >
+        Credit or Debit card
+      </Text>
+    </View>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "opacity": 1,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "display": "flex",
+          "flexDirection": "row",
+          "left": 30,
+          "padding": 20,
+          "top": 200,
+        }
+      }
+    >
+      <Image
+        source={
+          {
+            "testUri": "../../../assets/free.jpg",
+          }
+        }
+        style={
+          {
+            "height": 50,
+            "width": 50,
+          }
+        }
+      />
+      <Text
+        style={
+          {
+            "color": "#EDF6FF",
+            "fontSize": 20,
+            "left": 50,
+            "top": 15,
+          }
+        }
+      >
+        Paytm
+      </Text>
+    </View>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "opacity": 1,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "display": "flex",
+          "flexDirection": "row",
+          "left": 30,
+          "top": 200,
+        }
+      }
+    >
+      <Image
+        source={
+          {
+            "testUri": "../../../assets/money.jpg",
+          }
+        }
+        style={
+          {
+            "height": 50,
+            "width": 50,
+          }
+        }
+      />
+      <Text
+        style={
+          {
+            "color": "#EDF6FF",
+            "fontSize": 20,
+            "left": 50,
+            "top": 15,
+          }
+        }
+      >
+        Cash
+      </Text>
+    </View>
+  </View>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={false}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "borderColor": "#EDF6FF",
+        "borderRadius": 2,
+        "borderWidth": 1,
+        "height": 58,
+        "justifyContent": "center",
+        "left": 37,
+        "opacity": 1,
+        "top": 400,
+        "width": 341,
+      }
+    }
+  >
+    <Text
+      onPress={[Function]}
+      style={
+        {
+          "color": "white",
+          "fontSize": 21,
+          "left": 150,
+        }
+      }
+    >
+      Next
+    </Text>
+  </View>
+</RCTSafeAreaView>
+`;

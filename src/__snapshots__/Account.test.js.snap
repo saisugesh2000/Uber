@@ -1,0 +1,75 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Account component renders correctly 1`] = `
+<RCTSafeAreaView
+  style={
+    {
+      "alignItems": "center",
+      "backgroundColor": "#276FDD",
+      "height": "100%",
+      "justifyContent": "flex-start",
+    }
+  }
+>
+  <View
+    accessibilityState={
+      {
+        "busy": undefined,
+        "checked": undefined,
+        "disabled": undefined,
+        "expanded": undefined,
+        "selected": undefined,
+      }
+    }
+    accessibilityValue={
+      {
+        "max": undefined,
+        "min": undefined,
+        "now": undefined,
+        "text": undefined,
+      }
+    }
+    accessible={true}
+    collapsable={false}
+    focusable={true}
+    onClick={[Function]}
+    onResponderGrant={[Function]}
+    onResponderMove={[Function]}
+    onResponderRelease={[Function]}
+    onResponderTerminate={[Function]}
+    onResponderTerminationRequest={[Function]}
+    onStartShouldSetResponder={[Function]}
+    style={
+      {
+        "opacity": 1,
+      }
+    }
+  >
+    <View
+      style={
+        {
+          "alignItems": "center",
+          "borderRadius": 20,
+          "borderWidth": 0,
+          "elevation": 5,
+          "height": 181,
+          "top": 330,
+          "width": 181,
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "color": "#EDF6FF",
+            "fontSize": 64,
+            "paddingTop": 50,
+          }
+        }
+      >
+        Uber
+      </Text>
+    </View>
+  </View>
+</RCTSafeAreaView>
+`;

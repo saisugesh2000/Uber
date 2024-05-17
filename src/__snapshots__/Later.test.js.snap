@@ -1,0 +1,139 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`First component renders correctly 1`] = `
+<RCTSafeAreaView
+  style={
+    {
+      "backgroundColor": "black",
+      "height": "50%",
+      "top": "45%",
+    }
+  }
+>
+  <View>
+    <Text
+      style={
+        {
+          "color": "#EDF6FF",
+          "fontSize": 24,
+          "height": 84,
+          "left": 44,
+          "lineHeight": 28.13,
+          "top": 46,
+          "width": 341,
+        }
+      }
+    >
+      You won’t be able to request a ride without adding a payment method
+    </Text>
+  </View>
+  <View>
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "borderColor": "#EDF6FF",
+          "borderWidth": 1,
+          "left": 37,
+          "opacity": 1,
+          "padding": 10,
+          "top": 130,
+          "width": 300,
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "color": "#EDF6FF",
+            "fontSize": 20,
+            "textAlign": "center",
+          }
+        }
+      >
+        Add payment method now
+      </Text>
+    </View>
+  </View>
+  <View>
+    <View
+      accessibilityState={
+        {
+          "busy": undefined,
+          "checked": undefined,
+          "disabled": undefined,
+          "expanded": undefined,
+          "selected": undefined,
+        }
+      }
+      accessibilityValue={
+        {
+          "max": undefined,
+          "min": undefined,
+          "now": undefined,
+          "text": undefined,
+        }
+      }
+      accessible={true}
+      collapsable={false}
+      focusable={true}
+      onClick={[Function]}
+      onResponderGrant={[Function]}
+      onResponderMove={[Function]}
+      onResponderRelease={[Function]}
+      onResponderTerminate={[Function]}
+      onResponderTerminationRequest={[Function]}
+      onStartShouldSetResponder={[Function]}
+      style={
+        {
+          "borderColor": "#EDF6FF",
+          "borderWidth": 1,
+          "left": 37,
+          "opacity": 1,
+          "padding": 10,
+          "top": 150,
+          "width": 300,
+        }
+      }
+    >
+      <Text
+        style={
+          {
+            "color": "#EDF6FF",
+            "fontSize": 20,
+            "textAlign": "center",
+          }
+        }
+      >
+        Do it later
+      </Text>
+    </View>
+  </View>
+</RCTSafeAreaView>
+`;

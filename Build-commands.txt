@@ -1,0 +1,6 @@
+1.npx expo-doctor@latest
+2.npm install
+3.npm install -g expo-cli
+4.eas login
+5.eas build:configure
+6.eas build --platform android
